@@ -1,0 +1,17 @@
+	#Ellipse_1 {
+		fill: rgba(185,203,237,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_1 {
+		position: absolute;
+		overflow: visible;
+		width: 2464px;
+		height: 1627px;
+		left: -592px;
+		top: -521px;
+	}
